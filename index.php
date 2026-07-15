@@ -54,7 +54,7 @@
                 <h1 class="mt-10 text-5xl font-semibold tracking-tight text-pretty text-white sm:text-7xl">Nixbook OS</h1>
                 <p class="mt-8 text-lg font-medium text-pretty text-gray-400 sm:text-xl/8">A set-and-forget modern operating system designed for simplicity, speed, and peace of mind.</p>
                 <div class="mt-10 flex items-center gap-x-6">
-                    <a href="https://s3.membervaultcdn.com/nixbook/nixbook-installer-25.11.iso" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">Download</a>
+                    <a href="https://s3.membervaultcdn.com/nixbook/nixbook-installer-26.05.iso" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-indigo-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">Download</a>
                     <a href="https://github.com/mkellyxp/nixbook" target="_BLANK" class="text-sm/6 font-semibold text-white">View on Github <span aria-hidden="true">→</span></a>
                 </div>
             </div>
